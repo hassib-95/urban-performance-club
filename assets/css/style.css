@@ -38,6 +38,18 @@ header {
     align-items: baseline;
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#logo {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
+}
+
 /* Main content */
 main {
     background-color: lightblue;
