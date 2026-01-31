@@ -1,9 +1,13 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&family=Roboto:wght@300;400;500;700&display=swap');
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+
 /* General styles */
 body {
     min-height: 100vh;
@@ -11,11 +15,12 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #3a3a3a;
+    font-family: 'Roboto', sans-serif;
 }
 
 
 
-/* Header */ 
+/* Header */
 header {
     background-color: lightcoral;
 }
@@ -25,7 +30,7 @@ main {
     background-color: lightblue;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-} 
+}
 
 /* Footer */
 footer {
