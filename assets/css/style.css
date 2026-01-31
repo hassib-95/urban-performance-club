@@ -18,6 +18,13 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
+}
+
 
 
 /* Header */
