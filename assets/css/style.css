@@ -16,6 +16,8 @@ body {
     /* Generic project styles */
     color: #3a3a3a;
     font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
 }
 
 h1,
@@ -54,8 +56,11 @@ header a {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
+    font-size: 1.75rem;
+    font-weight: 800;
+    line-height: 1.2;
+    margin: 0;
 }
-
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -222,6 +227,7 @@ main {
 #photos img {
     width: 100%;
     line-height: 1em;
+
 }
 
 #photos {
@@ -270,6 +276,20 @@ main {
 
 #signup-form .form-check-label {
     color: #ffffff;
+}
+
+#signup-form .btn-dark {
+    background-color: #212529;
+    border-color: #212529;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+#signup-form .btn-dark:hover {
+    background-color: #ffffff;
+    color: #212529;
+    border-color: #ffffff;
 }
 /* Footer */
 #social-networks {
@@ -405,4 +425,13 @@ main {
     #benefits-physical > div {
         align-self: flex-end;
     }
+}
+
+/* Fix nav alignment on signup page */
+body:has(#signup) nav {
+    padding-top: 0;
+}
+
+body:has(#signup) #menu {
+    margin: 0;
 }
