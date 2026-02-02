@@ -167,6 +167,53 @@ main {
     justify-content: center;
 }
 
+/* Training Times section */
+#times {
+    background: url('../images/training-times.jpg') no-repeat center/cover;
+    /* Handles responsivity without the need for a media query */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#times div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    padding: 15px;
+    text-align: center;
+    /* This will not wrap on screens of less than 400px wide.
+    Each div will expand to fill the available space on its row */
+    flex-basis: 200px;
+    flex-grow: 1;
+    /* Creates a grid of time divs over the background image */
+    border: 2px solid white;
+}
+
+#times h3 {
+    /* Override the heading colour set in general styles */
+    color: #fafafa;
+}
+
+/* Personal Training Times section */
+#pt-schedule {
+    background: url('../images/pt-background.jpg') no-repeat center/cover;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#pt-schedule div {
+    color: #fafafa;
+    background-color: rgba(33, 37, 41, 0.75);
+    padding: 15px;
+    text-align: center;
+    flex-basis: 200px;
+    flex-grow: 1;
+    border: 2px solid white;
+}
+
+#pt-schedule h3 {
+    color: #fafafa;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
