@@ -228,6 +228,49 @@ main {
     line-height: 0;
 }
 
+/* Signup Form */
+#signup {
+    background-image: url("../images/signup-background.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 40px 0;
+}
+
+#signup-form {
+    background-color: rgba(33, 37, 41, 0.9);
+    color: #ffffff;
+    border: none;
+}
+
+#signup-form h2 {
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+#signup-form .form-label {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+#signup-form .form-control {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: #ffffff;
+}
+
+#signup-form .form-control:focus {
+    background-color: rgba(255, 255, 255, 0.15);
+    border-color: #ffffff;
+    color: #ffffff;
+    box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.25);
+}
+
+#signup-form .form-check-label {
+    color: #ffffff;
+}
 /* Footer */
 #social-networks {
     text-align: center;
@@ -316,6 +359,11 @@ main {
     #photos {
         column-count: 3;
     }
+
+    /* Signup Form */
+    #signup-form h2 {
+        font-size: 2rem;
+    }
 }
 
 
@@ -358,4 +406,3 @@ main {
         align-self: flex-end;
     }
 }
-
