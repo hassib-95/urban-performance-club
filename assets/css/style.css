@@ -227,7 +227,6 @@ main {
 #photos img {
     width: 100%;
     line-height: 1em;
-
 }
 
 #photos {
@@ -395,7 +394,7 @@ main {
 
 /* Gallery */
     #photos {
-        column-count: 4;
+        column-count: 3;
     }
 }
 
