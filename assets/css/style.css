@@ -383,6 +383,36 @@ main {
     #signup-form h2 {
         font-size: 2rem;
     }
+
+    /* About Page */
+#about-hero {
+    background-image: url("../images/about-hero.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+#about-hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#about-hero .container {
+    position: relative;
+    z-index: 1;
+}
+
+#our-story {
+    background-color: #f8f9fa;
+}
 }
 
 

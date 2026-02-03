@@ -10,7 +10,7 @@
         content="Urban Performance Club — strength, conditioning, and performance training for all levels">
     <meta name="keywords" content="gym, fitness, strength training, conditioning, workouts, performance, urban gym">
     <!-- Title -->
-    <title>Urban Performance Club</title>
+    <title>About Us - Urban Performance Club</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
@@ -34,67 +34,48 @@
         <nav>
             <ul id="menu">
                 <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
+                <li><a href="about.html" class="active">About</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="signup.html" class="active">Sign Up</a></li>
+                <li><a href="signup.html">Sign Up</a></li>
             </ul>
         </nav>
     </header>
 
     <!-- Main content -->
     <main>
-        <section id="signup">
+        <!-- About Hero Section -->
+        <section id="about-hero">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h1 class="display-3 fw-bold text-white">About Us</h1>
+                        <p class="lead text-white">Elevate Your Performance. Transform Your Life.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Our Story Section -->
+        <section id="our-story" class="py-5">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-md-6 col-lg-5">
-                        <form id="signup-form" class="p-4 shadow-lg rounded" method="POST"
-                            action="https://formdump.codeinstitute.net">
-                            <h2 class="text-center mb-4">
-                                <i class="fa-solid fa-dumbbell"></i> JOIN URBAN PERFORMANCE CLUB
-                            </h2>
-
-                            <div class="mb-3">
-                                <label for="first_name" class="form-label">First Name</label>
-                                <input type="text" class="form-control" id="first_name" name="first_name" required>
-                            </div>
-
-                            <div class="mb-3">
-                                <label for="last_name" class="form-label">Last Name</label>
-                                <input type="text" class="form-control" id="last_name" name="last_name" required>
-                            </div>
-
-                            <div class="mb-3">
-                                <label for="email_address" class="form-label">Email Address</label>
-                                <input type="email" class="form-control" id="email_address" name="email_address"
-                                    required>
-                            </div>
-
-                            <div class="mb-3">
-                                <label class="form-label d-block">Training Goal</label>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="training_goal" id="strength"
-                                        value="strength" required checked>
-                                    <label class="form-check-label" for="strength">Strength Training</label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="training_goal" id="conditioning"
-                                        value="conditioning" required>
-                                    <label class="form-check-label" for="conditioning">Conditioning</label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="training_goal" id="performance"
-                                        value="performance" required>
-                                    <label class="form-check-label" for="performance">Peak Performance</label>
-                                </div>
-                            </div>
-
-                            <button type="submit" class="btn btn-dark w-100 py-2">Start Training!</button>
-                        </form>
+                    <div class="col-lg-8">
+                        <h2 class="text-center mb-4">Our Story</h2>
+                        <p class="lead text-center mb-4">
+                            Urban Performance Club was founded on a simple belief: everyone deserves access to world-class training, expert coaching, and a supportive community.
+                        </p>
+                        <p>
+                            What started as a small warehouse gym in 2018 has grown into a premier performance facility serving athletes, fitness enthusiasts, and everyday people looking to push their limits. Our approach combines cutting-edge training methodologies with personalized attention, creating an environment where everyone—from beginners to elite athletes—can achieve their goals.
+                        </p>
+                        <p>
+                            We're not just a gym. We're a community of driven individuals who believe in the power of consistent effort, mental toughness, and supporting each other through every challenge. Whether you're training for competition, rebuilding after injury, or simply want to feel stronger and more confident, Urban Performance Club is your partner in progress.
+                        </p>
                     </div>
                 </div>
             </div>
         </section>
     </main>
+
     <!-- Footer -->
     <footer>
         <ul id="social-networks">
