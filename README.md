@@ -6,7 +6,7 @@ A comprehensive, responsive website for Urban Performance Club - a premium gym a
 
 Live site: [Urban Performance Club](https://hassib-95.github.io/urban-performance-club/)
 
------
+---
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ Live site: [Urban Performance Club](https://hassib-95.github.io/urban-performanc
 - [Deployment](#deployment)
 - [Credits](#credits)
 
------
+---
 
 ## User Experience (UX)
 
@@ -27,26 +27,26 @@ The goal of Urban Performance Club website is to attract new members by showcasi
 
 ### User Stories
 
-|ID |User Story                                                                                                                               |Priority   |Status|
-|---|-----------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
-|#1 |As a first-time visitor, I want to immediately understand what Urban Performance Club offers so I can decide if it meets my fitness needs|Must Have  |✅ Done|
-|#2 |As a first-time visitor, I want to see the benefits of joining so I can understand the value proposition                                 |Must Have  |✅ Done|
-|#3 |As a first-time visitor, I want to view photos of the gym facility so I can see the equipment and environment before visiting            |Must Have  |✅ Done|
-|#4 |As a first-time visitor, I want to learn about the coaches and their qualifications so I can trust their expertise                       |Should Have|✅ Done|
-|#5 |As a first-time visitor, I want to see the gym’s location and contact information so I can plan a visit or get in touch                  |Should Have|✅ Done|
-|#6 |As a first-time visitor, I want to read answers to common questions so I can get information quickly without calling                     |Could Have |✅ Done|
-|#7 |As a first-time visitor, I want to read testimonials from current members so I can understand others’ experiences                        |Could Have |✅ Done|
-|#8 |As a returning visitor, I want to check the weekly training schedule so I can plan which sessions to attend                              |Must Have  |✅ Done|
-|#9 |As a returning visitor, I want to see personal training availability so I can book 1-on-1 coaching sessions                              |Could Have |✅ Done|
-|#10|As a returning visitor, I want to see detailed opening hours so I can know when coaches are available vs facility access only            |Should Have|✅ Done|
-|#11|As a returning visitor, I want to sign up for membership through an online form so I can join without needing to call or visit           |Must Have  |✅ Done|
-|#12|As a returning visitor, I want to learn about the gym’s story and mission so I can connect with the club’s values                        |Should Have|✅ Done|
-|#13|As a frequent user, I want to access the website on my mobile device so I can check schedules and information on the go                  |Must Have  |✅ Done|
-|#14|As a frequent user, I want easy navigation between pages so I can find information quickly                                               |Must Have  |✅ Done|
-|#15|As a frequent user, I want to connect with the gym on social media so I can stay updated with news and events                            |Could Have |✅ Done|
-|#16|As the site owner, I want to showcase our unique boxing gym offering so we differentiate from standard gyms                              |Should Have|✅ Done|
-|#17|As the site owner, I want to collect member information through the signup form so we can contact potential members                      |Must Have  |✅ Done|
-|#18|As the site owner, I want to present a professional, trustworthy image so potential members feel confident joining                       |Must Have  |✅ Done|
+| ID  | User Story                                                                                                                                | Priority    | Status  |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------- |
+| #1  | As a first-time visitor, I want to immediately understand what Urban Performance Club offers so I can decide if it meets my fitness needs | Must Have   | ✅ Done |
+| #2  | As a first-time visitor, I want to see the benefits of joining so I can understand the value proposition                                  | Must Have   | ✅ Done |
+| #3  | As a first-time visitor, I want to view photos of the gym facility so I can see the equipment and environment before visiting             | Must Have   | ✅ Done |
+| #4  | As a first-time visitor, I want to learn about the coaches and their qualifications so I can trust their expertise                        | Should Have | ✅ Done |
+| #5  | As a first-time visitor, I want to see the gym’s location and contact information so I can plan a visit or get in touch                   | Should Have | ✅ Done |
+| #6  | As a first-time visitor, I want to read answers to common questions so I can get information quickly without calling                      | Could Have  | ✅ Done |
+| #7  | As a first-time visitor, I want to read testimonials from current members so I can understand others’ experiences                         | Could Have  | ✅ Done |
+| #8  | As a returning visitor, I want to check the weekly training schedule so I can plan which sessions to attend                               | Must Have   | ✅ Done |
+| #9  | As a returning visitor, I want to see personal training availability so I can book 1-on-1 coaching sessions                               | Could Have  | ✅ Done |
+| #10 | As a returning visitor, I want to see detailed opening hours so I can know when coaches are available vs facility access only             | Should Have | ✅ Done |
+| #11 | As a returning visitor, I want to sign up for membership through an online form so I can join without needing to call or visit            | Must Have   | ✅ Done |
+| #12 | As a returning visitor, I want to learn about the gym’s story and mission so I can connect with the club’s values                         | Should Have | ✅ Done |
+| #13 | As a frequent user, I want to access the website on my mobile device so I can check schedules and information on the go                   | Must Have   | ✅ Done |
+| #14 | As a frequent user, I want easy navigation between pages so I can find information quickly                                                | Must Have   | ✅ Done |
+| #15 | As a frequent user, I want to connect with the gym on social media so I can stay updated with news and events                             | Could Have  | ✅ Done |
+| #16 | As the site owner, I want to showcase our unique boxing gym offering so we differentiate from standard gyms                               | Should Have | ✅ Done |
+| #17 | As the site owner, I want to collect member information through the signup form so we can contact potential members                       | Must Have   | ✅ Done |
+| #18 | As the site owner, I want to present a professional, trustworthy image so potential members feel confident joining                        | Must Have   | ✅ Done |
 
 ### Wireframes
 
@@ -68,44 +68,44 @@ Sign Up Page
 
 ### Design
 
-*Colour Scheme*
+_Colour Scheme_
 
-|Colour      |Hex                  |Usage                 |
-|------------|---------------------|----------------------|
-|Dark Gray   |#252525              |Headings              |
-|Medium Gray |#3a3a3a              |Body text             |
-|White       |#ffffff              |Background            |
-|Dark Overlay|rgba(33, 37, 41, 0.8)|Hero and form overlays|
-|Light Gray  |#f8f9fa              |Section backgrounds   |
+| Colour       | Hex                   | Usage                  |
+| ------------ | --------------------- | ---------------------- |
+| Dark Gray    | #252525               | Headings               |
+| Medium Gray  | #3a3a3a               | Body text              |
+| White        | #ffffff               | Background             |
+| Dark Overlay | rgba(33, 37, 41, 0.8) | Hero and form overlays |
+| Light Gray   | #f8f9fa               | Section backgrounds    |
 
 The color palette conveys professionalism, strength, and clarity while maintaining WCAG AA accessibility standards for text contrast.
 
-*Typography*
+_Typography_
 
-- *Montserrat* — Used for headings. A bold, geometric sans-serif that conveys strength and modernity. Weights: 300, 400, 600, 700, 800.
-- *Roboto* — Used for body text. A clean, highly readable sans-serif optimized for web display. Weights: 300, 400, 500, 700.
+- _Montserrat_ — Used for headings. A bold, geometric sans-serif that conveys strength and modernity. Weights: 300, 400, 600, 700, 800.
+- _Roboto_ — Used for body text. A clean, highly readable sans-serif optimized for web display. Weights: 300, 400, 500, 700.
 
 Both fonts are imported from Google Fonts.
 
-*Design Rationale*
+_Design Rationale_
 
 The design choices were made to reflect the professional, performance-focused brand identity of Urban Performance Club:
 
-- *Dark color palette*: Chosen to convey strength, seriousness, and professionalism. The dark grays create a masculine, athletic aesthetic appropriate for a performance gym.
-- *Montserrat font for headings*: Selected for its bold, geometric letterforms that communicate strength and confidence. The uppercase styling adds impact and reinforces the professional brand image.
-- *Roboto for body text*: Chosen for its excellent readability at all sizes and its modern, clean appearance that complements Montserrat without competing for attention.
-- *Semi-transparent overlays*: Used on hero and form sections to ensure text readability over background images while maintaining visual interest.
-- *Flexbox layouts*: Implemented throughout for flexible, responsive designs that adapt smoothly to all screen sizes without complex calculations.
-- *Bootstrap integration*: Used selectively for complex interactive components (carousel, accordion, forms) while maintaining custom styling for brand consistency.
-- *Boxing gym specialization*: Integrated throughout the site (story, facility, team, signup) to differentiate from standard gyms and attract a specific target audience.
+- _Dark color palette_: Chosen to convey strength, seriousness, and professionalism. The dark grays create a masculine, athletic aesthetic appropriate for a performance gym.
+- _Montserrat font for headings_: Selected for its bold, geometric letterforms that communicate strength and confidence. The uppercase styling adds impact and reinforces the professional brand image.
+- _Roboto for body text_: Chosen for its excellent readability at all sizes and its modern, clean appearance that complements Montserrat without competing for attention.
+- _Semi-transparent overlays_: Used on hero and form sections to ensure text readability over background images while maintaining visual interest.
+- _Flexbox layouts_: Implemented throughout for flexible, responsive designs that adapt smoothly to all screen sizes without complex calculations.
+- _Bootstrap integration_: Used selectively for complex interactive components (carousel, accordion, forms) while maintaining custom styling for brand consistency.
+- _Boxing gym specialization_: Integrated throughout the site (story, facility, team, signup) to differentiate from standard gyms and attract a specific target audience.
 
------
+---
 
 ## Features
 
 ### Existing Features
 
-*Fixed Navigation Bar*
+_Fixed Navigation Bar_
 
 - Stays visible during scrolling for easy access
 - Collapses to hamburger menu on mobile (< 768px)
@@ -113,14 +113,14 @@ The design choices were made to reflect the professional, performance-focused br
 - Active page indicator shows current location
 - Smooth hover effects on desktop
 
-*Home Page — Hero Section*
+_Home Page — Hero Section_
 
 - Full-width background image showcasing gym environment
 - Semi-transparent overlay with club name and core values
 - “Strength | Conditioning | Performance” tagline
 - Responsive positioning (bottom-left mobile, bottom-right desktop)
 
-*Home Page — Why Choose Us*
+_Home Page — Why Choose Us_
 
 - Four key benefits with Font Awesome icons:
   - Build Strength (progressive resistance training)
@@ -130,7 +130,7 @@ The design choices were made to reflect the professional, performance-focused br
 - Circular feature image for visual interest
 - Responsive layout: stacked → left/right → horizontal
 
-*Home Page — Training Times*
+_Home Page — Training Times_
 
 - Seven-day schedule with daily focus areas
 - 06:00 - 22:00 opening hours
@@ -138,31 +138,31 @@ The design choices were made to reflect the professional, performance-focused br
 - Flexbox grid adapts to all screen sizes
 - Background image with dark overlay
 
-*Home Page — Personal Training Schedule*
+_Home Page — Personal Training Schedule_
 
 - Morning, evening, and weekend PT availability
 - Session durations clearly displayed (60-90 minutes)
 - Consistent styling with training times section
 
-*About Page — Hero Section*
+_About Page — Hero Section_
 
 - Full-width banner with “About Us” heading
 - “Elevate Your Performance. Transform Your Life.” tagline
 - Sets professional tone for detailed content
 
-*About Page — Our Story*
+_About Page — Our Story_
 
 - Compelling narrative about club founding in 2018
 - Highlights boxing gym as unique feature
 - Emphasizes community and professional coaching
 - Builds emotional connection with potential members
 
-*About Page — Our Facility* (Bootstrap Cards)
+_About Page — Our Facility_ (Bootstrap Cards)
 
 - Six training zones showcased:
   - Strength Zone (Olympic platforms, power racks)
   - Conditioning Area (assault bikes, rowing machines)
-  - *Boxing Gym* (professional ring, bags, equipment)
+  - _Boxing Gym_ (professional ring, bags, equipment)
   - Functional Training (turf area, sleds, plyometrics)
   - Group Training Space (small group sessions)
   - Private Training Rooms (1-on-1 coaching)
@@ -170,16 +170,16 @@ The design choices were made to reflect the professional, performance-focused br
 - Font Awesome icons for visual clarity
 - Responsive 3-column grid (1-2-3 columns)
 
-*About Page — Meet the Team* (Bootstrap Cards with Images)
+_About Page — Meet the Team_ (Bootstrap Cards with Images)
 
 - Three coach profiles:
   - Marcus Chen (Head Coach & Owner)
   - Sarah Mitchell (Conditioning Coach)
-  - James Rodriguez (*Boxing Coach* & Personal Trainer)
+  - James Rodriguez (_Boxing Coach_ & Personal Trainer)
 - Professional photos build trust
 - Expertise and certifications highlighted
 
-*About Page — Opening Hours* (Bootstrap Table)
+_About Page — Opening Hours_ (Bootstrap Table)
 
 - Detailed daily schedule showing:
   - Facility hours (member access)
@@ -188,7 +188,7 @@ The design choices were made to reflect the professional, performance-focused br
 - Alert box explains 24/7 key card access and boxing supervision
 - Responsive table scrolls on mobile
 
-*About Page — Location & Contact*
+_About Page — Location & Contact_
 
 - Two-column card layout:
   - Find Us: Birmingham Jewellery Quarter address, parking, transport
@@ -197,7 +197,7 @@ The design choices were made to reflect the professional, performance-focused br
 - Google Maps embed showing exact location
 - Responsive iframe with proper aspect ratio
 
-*About Page — FAQ Section* (Bootstrap Accordion - Interactive)
+_About Page — FAQ Section_ (Bootstrap Accordion - Interactive)
 
 - Six common questions with collapsible answers:
   - Do I need experience to join?
@@ -210,7 +210,7 @@ The design choices were made to reflect the professional, performance-focused br
 - Smooth expand/collapse animations
 - Addresses common concerns proactively
 
-*About Page — Testimonials* (Bootstrap Carousel - Interactive)
+_About Page — Testimonials_ (Bootstrap Carousel - Interactive)
 
 - Three member success stories:
   - Emma Thompson (beginner transformation)
@@ -221,7 +221,7 @@ The design choices were made to reflect the professional, performance-focused br
 - Navigation arrows and indicators
 - Builds social proof and credibility
 
-*Gallery Page*
+_Gallery Page_
 
 - 11 responsive images showing:
   - Gym equipment and facility
@@ -232,7 +232,7 @@ The design choices were made to reflect the professional, performance-focused br
 - Masonry-style arrangement
 - Proper alt text for accessibility
 
-*Sign Up Page* (Enhanced Form)
+_Sign Up Page_ (Enhanced Form)
 
 - Bootstrap 5 form with extended fields:
   - Name (first and last, side-by-side on desktop)
@@ -241,14 +241,16 @@ The design choices were made to reflect the professional, performance-focused br
   - Age Range (dropdown: 18-24, 25-34, 35-44, 45-54, 55-64, 65+)
   - Height (number input in cm, 100-250 range)
   - Weight (number input in kg, 30-200 range)
-  - Training Goal (radio: Strength, Conditioning, Performance, *Boxing*)
+  - Training Goal (radio: Strength, Conditioning, Performance, _Boxing_)
 - Full-screen background image
 - Semi-transparent dark container with white text
 - HTML5 validation on all fields
-- Submits to Code Institute form dump
+- _EmailJS integration_ - form submissions sent directly to gym email
+- Success message confirmation after submission
+- Form automatically resets after successful submission
 - Responsive: full-width mobile, centered card desktop
 
-*Footer*
+_Footer_
 
 - Social media links with Font Awesome icons (Facebook, Twitter, YouTube, Instagram)
 - Links open in new tabs with rel="noopener" security
@@ -258,13 +260,12 @@ The design choices were made to reflect the professional, performance-focused br
 
 ### Features Left to Implement
 
-- Online class booking system with real-time availability
 - Member portal with workout logging and progress tracking
 - Video tutorial library for exercise techniques
 - Blog section with training and nutrition articles
 - Payment processing for online membership sign-up
 
------
+---
 
 ## Technologies Used
 
@@ -279,6 +280,7 @@ The design choices were made to reflect the professional, performance-focused br
 - [Bootstrap 5.3.0](https://getbootstrap.com/) — Grid system, forms, cards, accordion, carousel, tables
 - [Google Fonts](https://fonts.google.com/) — Montserrat and Roboto typography
 - [Font Awesome 6.x](https://fontawesome.com/) — Icons throughout the site
+- [EmailJS](https://www.emailjs.com/) — Email integration for signup form submissions
 
 ### Tools
 
@@ -291,55 +293,55 @@ The design choices were made to reflect the professional, performance-focused br
 - [Balsamiq](https://balsamiq.com/) / [Figma](https://figma.com/) — Wireframe creation
 - [Am I Responsive](https://ui.dev/amiresponsive) — Mockup generator
 
------
+---
 
 ## Testing
 
 ### Manual Testing
 
-|Feature                      |Expected                                     |Result           |Pass/Fail|
-|-----------------------------|---------------------------------------------|-----------------|---------|
-|Logo link                    |Returns to home page from any page           |Works as expected|✅ Pass   |
-|Home nav link                |Navigates to home page, shows active state   |Works as expected|✅ Pass   |
-|About nav link               |Navigates to about page, shows active state  |Works as expected|✅ Pass   |
-|Gallery nav link             |Navigates to gallery page, shows active state|Works as expected|✅ Pass   |
-|Sign Up nav link             |Navigates to signup page, shows active state |Works as expected|✅ Pass   |
-|Hamburger menu               |Opens/closes on mobile, shows all links      |Works as expected|✅ Pass   |
-|Nav hover effects            |Underline appears on hover (desktop)         |Works as expected|✅ Pass   |
-|FAQ accordion                |Questions expand/collapse smoothly           |Works as expected|✅ Pass   |
-|Testimonials carousel        |Auto-rotates every 5 seconds                 |Works as expected|✅ Pass   |
-|Carousel next arrow          |Advances to next testimonial                 |Works as expected|✅ Pass   |
-|Carousel previous arrow      |Returns to previous testimonial              |Works as expected|✅ Pass   |
-|Carousel indicators          |Jumps to specific testimonial                |Works as expected|✅ Pass   |
-|Google Maps                  |Zoom and pan work correctly                  |Works as expected|✅ Pass   |
-|Phone link                   |Opens phone dialer on mobile                 |Works as expected|✅ Pass   |
-|Email link                   |Opens default email client                   |Works as expected|✅ Pass   |
-|Sign Up CTA button           |Navigates to signup page from About          |Works as expected|✅ Pass   |
-|Form - first name required   |Shows validation error if empty              |Works as expected|✅ Pass   |
-|Form - last name required    |Shows validation error if empty              |Works as expected|✅ Pass   |
-|Form - email required        |Shows validation error if empty              |Works as expected|✅ Pass   |
-|Form - email format          |Shows validation error if invalid format     |Works as expected|✅ Pass   |
-|Form - gender required       |Shows validation error if not selected       |Works as expected|✅ Pass   |
-|Form - age required          |Shows validation error if not selected       |Works as expected|✅ Pass   |
-|Form - height required       |Shows validation error if empty              |Works as expected|✅ Pass   |
-|Form - height range          |Shows validation error if outside 100-250    |Works as expected|✅ Pass   |
-|Form - weight required       |Shows validation error if empty              |Works as expected|✅ Pass   |
-|Form - weight range          |Shows validation error if outside 30-200     |Works as expected|✅ Pass   |
-|Form - training goal required|Shows validation error if not selected       |Works as expected|✅ Pass   |
-|Form - valid submission      |Submits to Code Institute form dump          |Works as expected|✅ Pass   |
-|Social media - Facebook      |Opens Facebook in new tab                    |Works as expected|✅ Pass   |
-|Social media - Twitter       |Opens Twitter in new tab                     |Works as expected|✅ Pass   |
-|Social media - YouTube       |Opens YouTube in new tab                     |Works as expected|✅ Pass   |
-|Social media - Instagram     |Opens Instagram in new tab                   |Works as expected|✅ Pass   |
-|Responsive - mobile          |Layout stacks, hamburger menu visible        |Works as expected|✅ Pass   |
-|Responsive - tablet          |Multi-column layouts, horizontal nav         |Works as expected|✅ Pass   |
-|Responsive - desktop         |Full responsive layouts, hover effects       |Works as expected|✅ Pass   |
+| Feature                       | Expected                                      | Result            | Pass/Fail |
+| ----------------------------- | --------------------------------------------- | ----------------- | --------- |
+| Logo link                     | Returns to home page from any page            | Works as expected | ✅ Pass   |
+| Home nav link                 | Navigates to home page, shows active state    | Works as expected | ✅ Pass   |
+| About nav link                | Navigates to about page, shows active state   | Works as expected | ✅ Pass   |
+| Gallery nav link              | Navigates to gallery page, shows active state | Works as expected | ✅ Pass   |
+| Sign Up nav link              | Navigates to signup page, shows active state  | Works as expected | ✅ Pass   |
+| Hamburger menu                | Opens/closes on mobile, shows all links       | Works as expected | ✅ Pass   |
+| Nav hover effects             | Underline appears on hover (desktop)          | Works as expected | ✅ Pass   |
+| FAQ accordion                 | Questions expand/collapse smoothly            | Works as expected | ✅ Pass   |
+| Testimonials carousel         | Auto-rotates every 5 seconds                  | Works as expected | ✅ Pass   |
+| Carousel next arrow           | Advances to next testimonial                  | Works as expected | ✅ Pass   |
+| Carousel previous arrow       | Returns to previous testimonial               | Works as expected | ✅ Pass   |
+| Carousel indicators           | Jumps to specific testimonial                 | Works as expected | ✅ Pass   |
+| Google Maps                   | Zoom and pan work correctly                   | Works as expected | ✅ Pass   |
+| Phone link                    | Opens phone dialer on mobile                  | Works as expected | ✅ Pass   |
+| Email link                    | Opens default email client                    | Works as expected | ✅ Pass   |
+| Sign Up CTA button            | Navigates to signup page from About           | Works as expected | ✅ Pass   |
+| Form - first name required    | Shows validation error if empty               | Works as expected | ✅ Pass   |
+| Form - last name required     | Shows validation error if empty               | Works as expected | ✅ Pass   |
+| Form - email required         | Shows validation error if empty               | Works as expected | ✅ Pass   |
+| Form - email format           | Shows validation error if invalid format      | Works as expected | ✅ Pass   |
+| Form - gender required        | Shows validation error if not selected        | Works as expected | ✅ Pass   |
+| Form - age required           | Shows validation error if not selected        | Works as expected | ✅ Pass   |
+| Form - height required        | Shows validation error if empty               | Works as expected | ✅ Pass   |
+| Form - height range           | Shows validation error if outside 100-250     | Works as expected | ✅ Pass   |
+| Form - weight required        | Shows validation error if empty               | Works as expected | ✅ Pass   |
+| Form - weight range           | Shows validation error if outside 30-200      | Works as expected | ✅ Pass   |
+| Form - training goal required | Shows validation error if not selected        | Works as expected | ✅ Pass   |
+| Form - valid submission       | Submits to Code Institute form dump           | Works as expected | ✅ Pass   |
+| Social media - Facebook       | Opens Facebook in new tab                     | Works as expected | ✅ Pass   |
+| Social media - Twitter        | Opens Twitter in new tab                      | Works as expected | ✅ Pass   |
+| Social media - YouTube        | Opens YouTube in new tab                      | Works as expected | ✅ Pass   |
+| Social media - Instagram      | Opens Instagram in new tab                    | Works as expected | ✅ Pass   |
+| Responsive - mobile           | Layout stacks, hamburger menu visible         | Works as expected | ✅ Pass   |
+| Responsive - tablet           | Multi-column layouts, horizontal nav          | Works as expected | ✅ Pass   |
+| Responsive - desktop          | Full responsive layouts, hover effects        | Works as expected | ✅ Pass   |
 
 ### Validator Testing
 
 All code was validated using industry standard tools to ensure it meets best practice standards.
 
-*HTML Validation*
+_HTML Validation_
 
 All four HTML pages were validated using the W3C HTML Validator. No errors were found.
 
@@ -359,7 +361,7 @@ signup.html
 
 ![HTML Validation - Signup](documentation/html-validation-signup.png)
 
-*CSS Validation*
+_CSS Validation_
 
 The CSS was validated using the W3C CSS Validator. No errors were found.
 
@@ -378,28 +380,28 @@ This project was planned and managed using GitHub Projects with a Kanban board. 
 
 ### Browser Testing
 
-|Browser     |Result             |
-|------------|-------------------|
-|Chrome 120+ |✅ Works as expected|
-|Firefox 121+|✅ Works as expected|
-|Safari 17+  |✅ Works as expected|
-|Edge 120+   |✅ Works as expected|
+| Browser      | Result               |
+| ------------ | -------------------- |
+| Chrome 120+  | ✅ Works as expected |
+| Firefox 121+ | ✅ Works as expected |
+| Safari 17+   | ✅ Works as expected |
+| Edge 120+    | ✅ Works as expected |
 
 ### Device Testing
 
-|Device                       |Result             |
-|-----------------------------|-------------------|
-|MacBook Pro (Desktop)        |✅ Works as expected|
-|iPhone 12/13/14              |✅ Works as expected|
-|iPad Air/Pro                 |✅ Works as expected|
-|Samsung Galaxy S21/S22       |✅ Works as expected|
-|Chrome DevTools (all devices)|✅ Works as expected|
+| Device                        | Result               |
+| ----------------------------- | -------------------- |
+| MacBook Pro (Desktop)         | ✅ Works as expected |
+| iPhone 12/13/14               | ✅ Works as expected |
+| iPad Air/Pro                  | ✅ Works as expected |
+| Samsung Galaxy S21/S22        | ✅ Works as expected |
+| Chrome DevTools (all devices) | ✅ Works as expected |
 
 ### Known Bugs
 
 No known bugs at time of submission.
 
------
+---
 
 ## Development Lifecycle
 
@@ -409,14 +411,14 @@ The project began with research into existing gym websites to understand user ex
 
 ### Development Approach
 
-The project was built using a *systematic, commit-by-commit approach* inspired by the Code Institute Love Running walkthrough. This methodology ensured:
+The project was built using a _systematic, commit-by-commit approach_ inspired by the Code Institute Love Running walkthrough. This methodology ensured:
 
 - Each commit represented a single, well-defined feature or fix
 - Commit messages clearly described what was added or changed
 - Features were built incrementally from mobile-first to desktop
 - Clear version control made it easy to track progress and revert if needed
 
-*Example commit progression:*
+_Example commit progression:_
 
 1. “Add hero section with cover text and tagline”
 1. “Add reasons section”
@@ -444,13 +446,13 @@ Throughout development, features were tested across multiple devices and browser
 
 The project was completed over approximately 4-6 weeks with 43+ structured commits demonstrating systematic development workflow.
 
------
+---
 
 ## Reflection & Future Improvements
 
 ### What I Learned
 
-*Technical Skills:*
+_Technical Skills:_
 
 - Advanced CSS layouts using Flexbox for responsive designs
 - Bootstrap 5 integration for interactive components while maintaining custom branding
@@ -460,7 +462,7 @@ The project was completed over approximately 4-6 weeks with 43+ structured commi
 - Accessibility standards (WCAG compliance, semantic HTML, ARIA labels)
 - Form validation using HTML5 and Bootstrap
 
-*Soft Skills:*
+_Soft Skills:_
 
 - Breaking large projects into manageable, logical commits
 - Problem-solving through debugging layout issues and Git conflicts
@@ -469,52 +471,52 @@ The project was completed over approximately 4-6 weeks with 43+ structured commi
 
 ### Challenges Overcome
 
-1. *Image File Size Management*: Initially pushed images that were too large (5-6MB), causing Git failures. Learned to optimize all images to under 500KB using TinyPNG and Squoosh, and to batch-commit large files.
-1. *Bootstrap CSS Conflicts*: Adding Bootstrap to the signup page caused inconsistent logo styling across pages. Resolved by limiting Bootstrap to necessary pages only and using specific CSS selectors to override defaults.
-1. *Heading Hierarchy for Accessibility*: Validator identified improper heading structure (multiple h1 tags, skipping from h2 to h4). Fixed by ensuring only one h1 per page and converting decorative headings to styled paragraphs.
+1. _Image File Size Management_: Initially pushed images that were too large (5-6MB), causing Git failures. Learned to optimize all images to under 500KB using TinyPNG and Squoosh, and to batch-commit large files.
+1. _Bootstrap CSS Conflicts_: Adding Bootstrap to the signup page caused inconsistent logo styling across pages. Resolved by limiting Bootstrap to necessary pages only and using specific CSS selectors to override defaults.
+1. _Heading Hierarchy for Accessibility_: Validator identified improper heading structure (multiple h1 tags, skipping from h2 to h4). Fixed by ensuring only one h1 per page and converting decorative headings to styled paragraphs.
 
 ### What Could Be Improved
 
 If revisiting this project, I would:
 
-1. *Add wireframes earlier in planning*: While wireframes were created, doing them before any coding would have prevented some layout revisions during development.
-1. *Implement a CSS preprocessor*: Using SASS/SCSS would have made managing the stylesheet easier with variables, nesting, and mixins for repeated patterns.
-1. *Create a design system document*: A separate document defining all colors, typography, spacing, and component patterns would ensure even more consistency.
-1. *Add automated testing*: While manual testing was thorough, implementing automated tests for form validation and interactive components would catch regressions faster.
-1. *Progressive enhancement for JavaScript*: Although Bootstrap JS is required for carousel/accordion, considering vanilla JS alternatives or graceful degradation would improve accessibility.
+1. _Add wireframes earlier in planning_: While wireframes were created, doing them before any coding would have prevented some layout revisions during development.
+1. _Implement a CSS preprocessor_: Using SASS/SCSS would have made managing the stylesheet easier with variables, nesting, and mixins for repeated patterns.
+1. _Create a design system document_: A separate document defining all colors, typography, spacing, and component patterns would ensure even more consistency.
+1. _Add automated testing_: While manual testing was thorough, implementing automated tests for form validation and interactive components would catch regressions faster.
+1. _Progressive enhancement for JavaScript_: Although Bootstrap JS is required for carousel/accordion, considering vanilla JS alternatives or graceful degradation would improve accessibility.
 
 ### Future Enhancements
 
-*Phase 1 (Next 3 months):*
+_Phase 1 (Next 3 months):_
 
 - Implement online class booking system with calendar
 - Add member login and basic dashboard
 - Create blog section for training tips and gym news
 
-*Phase 2 (6-12 months):*
+_Phase 2 (6-12 months):_
 
 - Develop member portal with workout logging and progress tracking
 - Integrate payment processing for online membership sign-up
 - Add video tutorial library for exercise techniques
 
-*Phase 3 (12+ months):*
+_Phase 3 (12+ months):_
 
 - Build mobile app for on-the-go access
 - Integrate with fitness tracking apps (Strava, MyFitnessPal)
 - Implement AI-powered personalized training recommendations
 
------
+---
 
 ## Deployment
 
 The site was deployed to GitHub Pages using the following steps:
 
 1. Go to the repository on GitHub: [urban-performance-club](https://github.com/hassib-95/urban-performance-club/)
-1. Click *Settings*
-1. Click *Pages* in the left sidebar
-1. Under *Source* select *Deploy from a branch*
-1. Select *main* branch and */ (root)* folder
-1. Click *Save*
+1. Click _Settings_
+1. Click _Pages_ in the left sidebar
+1. Under _Source_ select _Deploy from a branch_
+1. Select _main_ branch and _/ (root)_ folder
+1. Click _Save_
 1. The live site URL will appear at the top of the Pages section (may take 2-3 minutes)
 
 Live site: <https://hassib-95.github.io/urban-performance-club/>
@@ -522,17 +524,17 @@ Live site: <https://hassib-95.github.io/urban-performance-club/>
 ### Forking the Repository
 
 1. Go to the repository on GitHub
-1. Click the *Fork* button in the top right corner
+1. Click the _Fork_ button in the top right corner
 1. A copy of the repository will be created in your GitHub account
 
 ### Cloning the Repository
 
 1. Go to the repository on GitHub
-1. Click the *Code* button
+1. Click the _Code_ button
 1. Copy the HTTPS URL
 1. Open your terminal and run git clone <url>
 
------
+---
 
 ## Credits
 
@@ -545,7 +547,7 @@ Live site: <https://hassib-95.github.io/urban-performance-club/>
 
 ### Media
 
-*Stock Photography:*
+_Stock Photography:_
 
 All images sourced from royalty-free stock photography websites:
 
@@ -554,17 +556,17 @@ All images sourced from royalty-free stock photography websites:
 
 All images were optimized using [TinyPNG](https://tinypng.com/) and [Squoosh](https://squoosh.app/) to ensure fast page loading.
 
-*Icons:*
+_Icons:_
 
 - All icons provided by [Font Awesome 6.x](https://fontawesome.com/) under their free license
 
-*Fonts:*
+_Fonts:_
 
-- *Montserrat* and *Roboto* provided by [Google Fonts](https://fonts.google.com/) under the Open Font License
+- _Montserrat_ and _Roboto_ provided by [Google Fonts](https://fonts.google.com/) under the Open Font License
 
 ### Code
 
-*Love Running Walkthrough Project* (Code Institute)
+_Love Running Walkthrough Project_ (Code Institute)
 
 The foundational structure and responsive design patterns were learned from the Love Running walkthrough project. Key concepts adapted:
 
@@ -576,7 +578,7 @@ The foundational structure and responsive design patterns were learned from the 
 - Form structure and HTML5 validation
 - Media query strategy and breakpoint selection
 
-*Significant Enhancements Beyond Love Running:*
+_Significant Enhancements Beyond Love Running:_
 
 - Complete About page with 7 comprehensive sections
 - Bootstrap 5 integration (accordion, carousel, cards, tables, form components)
@@ -586,7 +588,7 @@ The foundational structure and responsive design patterns were learned from the 
 - Professional content strategy (significantly more detailed)
 - Boxing gym specialization throughout
 
-*Bootstrap 5 Documentation:*
+_Bootstrap 5 Documentation:_
 
 - [Forms](https://getbootstrap.com/docs/5.3/forms/overview/) — Form components and validation
 - [Cards](https://getbootstrap.com/docs/5.3/components/card/) — Coach profiles and facility cards
@@ -594,7 +596,7 @@ The foundational structure and responsive design patterns were learned from the 
 - [Carousel](https://getbootstrap.com/docs/5.3/components/carousel/) — Testimonials slideshow
 - [Tables](https://getbootstrap.com/docs/5.3/content/tables/) — Opening hours schedule
 
-*Additional Resources:*
+_Additional Resources:_
 
 - [CSS-Tricks](https://css-tricks.com/) — Flexbox and CSS multi-column layouts
 - [MDN Web Docs](https://developer.mozilla.org/) — HTML5, CSS3, and web standards reference
@@ -606,7 +608,7 @@ The foundational structure and responsive design patterns were learned from the 
 - Code Institute Slack community for peer support and troubleshooting
 - My assessor for their time reviewing this project and providing constructive feedback
 
------
+---
 
 Developed by Hassib Choudry as part of the Code Institute Level 5 Diploma in Web Application Development — Portfolio Project 1 (User Centric Frontend Development)
 
