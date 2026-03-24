@@ -1,3 +1,7 @@
+/* jshint esversion: 6 */
+/* global emailjs */
+
+
 // Initialize EmailJS with public key
 emailjs.init("KUN1cq3bdTgISYea2");
 

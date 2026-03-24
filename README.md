@@ -367,6 +367,13 @@ The CSS was validated using the W3C CSS Validator. No errors were found.
 
 ![CSS Validation](documentation/css-validation.png)
 
+*JavaScript Validation*
+
+The JavaScript was validated using JSHint. No errors or warnings were found. The code uses ES6 syntax (const, let) and the EmailJS global library.
+
+![JavaScript Validation](documentation/js-validation.png)
+
+
 ### Agile Methodology
 
 This project was planned and managed using GitHub Projects with a Kanban board. User stories were written in the format “As a [user type], I want [goal] so that [reason]” with clear acceptance criteria and task breakdowns. Stories were prioritised using MoSCoW labels — Must Have (9 stories), Should Have (5 stories), and Could Have (4 stories). All 18 user stories were completed and implemented successfully.
