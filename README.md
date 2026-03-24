@@ -112,6 +112,7 @@ _Fixed Navigation Bar_
 - Horizontal menu on tablets and desktop
 - Active page indicator shows current location
 - Smooth hover effects on desktop
+- Smooth scroll animation when clicking navigation links
 
 _Home Page — Hero Section_
 
@@ -252,6 +253,15 @@ _Sign Up Page_ (Enhanced Form)
 
 _Footer_
 
+_Back to Top Button_
+
+- Fixed button appears when scrolling down the page
+- Smooth scroll animation back to top
+- Appears after scrolling 300px down
+- Circular design with hover effects
+- Accessible with ARIA label
+- Consistent across all pages
+
 - Social media links with Font Awesome icons (Facebook, Twitter, YouTube, Instagram)
 - Links open in new tabs with rel="noopener" security
 - Comprehensive aria-label attributes for screen readers
@@ -281,6 +291,7 @@ _Footer_
 - [Google Fonts](https://fonts.google.com/) — Montserrat and Roboto typography
 - [Font Awesome 6.x](https://fontawesome.com/) — Icons throughout the site
 - [EmailJS](https://www.emailjs.com/) — Email integration for signup form submissions
+- Custom JavaScript — Smooth scroll navigation and back-to-top functionality
 
 ### Tools
 
@@ -329,6 +340,9 @@ _Footer_
 | Form - weight range           | Shows validation error if outside 30-200      | Works as expected | ✅ Pass   |
 | Form - training goal required | Shows validation error if not selected        | Works as expected | ✅ Pass   |
 | Form - valid submission       | Submits to Code Institute form dump           | Works as expected | ✅ Pass   |
+| Smooth scroll navigation      | Navigation links scroll smoothly to sections  | Works as expected | ✅ Pass   |
+| Back to top button visibility | Button appears after scrolling 300px down     | Works as expected | ✅ Pass   |
+| Back to top button function   | Smooth scroll to top when clicked             | Works as expected | ✅ Pass   |
 | Social media - Facebook       | Opens Facebook in new tab                     | Works as expected | ✅ Pass   |
 | Social media - Twitter        | Opens Twitter in new tab                      | Works as expected | ✅ Pass   |
 | Social media - YouTube        | Opens YouTube in new tab                      | Works as expected | ✅ Pass   |
@@ -367,12 +381,17 @@ The CSS was validated using the W3C CSS Validator. No errors were found.
 
 ![CSS Validation](documentation/css-validation.png)
 
-*JavaScript Validation*
+_JavaScript Validation_
 
-The JavaScript was validated using JSHint. No errors or warnings were found. The code uses ES6 syntax (const, let) and the EmailJS global library.
+All JavaScript files were validated using JSHint. No errors or warnings were found. The code uses ES6 syntax (const, let), the EmailJS global library, and DOM manipulation for smooth scrolling and back-to-top functionality.
 
-![JavaScript Validation](documentation/js-validation.png)
+signup.js (EmailJS integration)
 
+![JavaScript Validation - Signup](documentation/js-validation.png)
+
+navigation.js (Smooth scroll and back-to-top)
+
+![JavaScript Validation - Navigation](documentation/js-validation-navigation.png)
 
 ### Agile Methodology
 
